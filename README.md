@@ -20,8 +20,6 @@ Visual components and Python
 ## Experiment:
 ![Screenshot 2024-12-19 124752](https://github.com/user-attachments/assets/4b4f7f84-0b6c-44c9-b7d7-d97fad0fbfc7)
 
-![Screenshot 2024-12-19 124856](https://github.com/user-attachments/assets/dae44ab3-26b2-471f-8d44-f14ef48fb50e)
-
 ## Program
 ```
 Developed by : VISHWA V
